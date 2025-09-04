@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(212, 233, 173);
+}
+
+h1{
+    color: rgb(40, 40, 2);
+    font-size: 16px;
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* .id es una clase */
+.th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+/* # id no se puede repetir */
+#parrafoUnico{
+    text-align: center;
+    background-color:  rgb(173, 192, 140);
+}
+
+.parrafoUno{
+    text-align: center;
+    background-color:  rgb(238, 241, 234);
+}
